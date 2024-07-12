@@ -90,7 +90,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions, please reach out via the GitHub repository or directly at [your-email@example.com](mailto:your-email@example.com).
+For any questions, please reach out via the GitHub repository or directly at [hepaul.dev@gmail.com](hepaul.dev@gmail.com).
 
 ---
 
